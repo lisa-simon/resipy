@@ -6,6 +6,8 @@ v2.0.0
 -Uniform methods names (API)
 -Faster 3D mesh interpolation
 -Support for "Lippmann" data input
+-Addition of sensitivity slider (inversion)
+-Interactive post processing (similar to pre-processing)
 -Minor bug fixes
 
 
